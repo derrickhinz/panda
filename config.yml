@@ -1,0 +1,13 @@
+development:
+  theme_id: 110352966
+  password: 5d0184488c250924172850ee8b10a678
+  store: panda-41.myshopify.com
+  ignore_files:
+    - mocks/
+    - config.yml
+
+# production:
+#   theme_id: 110352966
+#   access_token: d41a8962fdc2a8d87b3008f18ebd17b5
+#   store: panda-41.myshopify.com
+#   ignore_files:
